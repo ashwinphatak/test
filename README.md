@@ -1,5 +1,5 @@
 # test
-Test
+Test - Another Feature
 
 Commit #1
 Commit #2
